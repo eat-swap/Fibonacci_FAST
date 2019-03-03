@@ -3,7 +3,7 @@ Written in python, designed to calculate Fibonacci number in a fast way.
 
 ## Usage
 ```bash
-$ python3 Fibonacci.py
+$ python3 fastlib.py
 ```
 
 ## Localization
