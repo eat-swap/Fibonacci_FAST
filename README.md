@@ -1,5 +1,14 @@
 # Fibonacci_FAST
 Written in python, designed to calculate Fibonacci number in a fast way.
 
-## Usage:
-python3 Fibonacci.py
+## Usage
+```bash
+$ python3 Fibonacci.py
+```
+
+## Localization
+Please refer to `locale/TRANSLATING.md`
+
+## Authors
+- 2019 Lamhaoyin
+- 2019 pan93412
