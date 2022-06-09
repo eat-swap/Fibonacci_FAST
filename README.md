@@ -10,5 +10,5 @@ $ python3 fastlib.py
 Please refer to `locale/TRANSLATING.md`
 
 ## Authors
-- 2019 Lamhaoyin
+- 2019 Eatswap
 - 2019 pan93412
